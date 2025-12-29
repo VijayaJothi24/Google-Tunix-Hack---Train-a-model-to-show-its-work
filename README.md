@@ -10,7 +10,10 @@ It follows the hackathon requirements:
 - Single-session evaluation
 - Optional unrestricted mode with Kaggle Model upload
 
-<div align="center"> <iframewidth="720" height="405" src="https://www.youtube.com/embed/6m1ILiAe-4g"  title="YouTube video player"frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+[![Watch the video](https://img.youtube.com/vi/6m1ILiAe-4g/0.jpg)](https://youtu.be/6m1ILiAe-4g)
+
+
+ ```html<div align="center"> <iframewidth="720" height="405" src="https://www.youtube.com/embed/6m1ILiAe-4g"  title="YouTube video player"frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
   
    ## ⚙️ Environment Setup
