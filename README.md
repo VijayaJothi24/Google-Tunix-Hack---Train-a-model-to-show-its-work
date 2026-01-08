@@ -1,6 +1,8 @@
 
 
 Gemma2 2B IT Hackathon Notebook
+![Google Maps AI Agent](https://github.com/VijayaJothi24/Google-Tunix-Hack---Train-a-model-to-show-its-work/blob/main/Google_Project.png)
+
 
 ## 📌 Overview
 This notebook demonstrates fine-tuning and evaluation of the **Gemma2 2B Instruction-Tuned (IT)** model on Kaggle.  
